@@ -22,7 +22,7 @@
 
 ### Languages & Tools 🕹
 
-![My Skills](/Users/tapper/gits/theTapper/README.assets/icons.svg)
+![My Skills](https://raw.githubusercontent.com/theTapper/theTapper/main/README.assets/icons.svg)
 
 
 
