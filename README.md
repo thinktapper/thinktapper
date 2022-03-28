@@ -1,39 +1,41 @@
 
-![Logo](https://i.ibb.co/rd2XsBp/cover.png)
 
+# 					Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Tapper! 👽
 
-# Hi there, I'm Tapper! 👋👽
+------
 
-I'm a full-stack software engineer based in Minneapolis. 
+I'm a passionate full-stack developer based in Minneapolis. 
 
 Solving problems and providing elegant, innovative and accessible solutions is a passion of mine. I'm enthusiastic about learning new & exciting technologies, and am driven to find ways our tech can be improved.
 
-👩‍💻 I'm currently working on #100Devs
+👨‍💻 My tech stack is **MERN**
 
-🧠 I'm currently learning JavaScript
+🏋️‍♂️ I'm currently training w/ 100Devs
 
 👯‍♀️ I'm looking to collaborate on interesting project ideas
 
-🤔 I'm looking for help with my taxes
+🤸 Let's go get
 
-💬 Ask me about my pronous
+### Connect with me:
 
-😄 Pronouns: anything
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=angellist&logoColor=white)](https://tapper.codes/)
 
-⚡️ Fun fact: I'm agender
-
-
-## 🛠 Skills
-Javascript, HTML, CSS...
-
-
-## Badges
-
-![Netlify](https://img.shields.io/netlify/3a2d5e65-167b-4b24-b09c-abbfc0e3de58)
-![GitHub last commit](https://img.shields.io/github/last-commit/QuantumQweef/CodeWars)
-![Twitter Follow](https://img.shields.io/twitter/follow/thinktapper?style=social)
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://tapper.codes/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thinktapper)
+
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thinktapper)
 
+## Languages & Tools:
+
+![My Skills](/Users/tapper/gits/QuantumQweef/README.assets/icons.svg)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theTapper&layout=compact&theme=tokyonight)](https://github.com/theTapper)
+
+------
+
+### :zap: Recent Activity
+
+![GitHub last commit](https://img.shields.io/github/last-commit/QuantumQweef/CodeWars)
+
+![Netlify](https://img.shields.io/netlify/3a2d5e65-167b-4b24-b09c-abbfc0e3de58)
