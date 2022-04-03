@@ -25,12 +25,12 @@
 
 
 ### Github Analytics 🔬
-<p align="center">
+<p align="left">
 <a href="https://github.com/theTapper">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theTapper&layout=compact&theme=tokyonight">
 </a>
 </p>
-<p align="center">
+<p align="right">
 <a href="https://github.com/theTapper">
 	<img src="https://github-readme-stats.vercel.app/api?username=theTapper&hide=stars,issues,contribs&count_private=true&show_icons=true&theme=tokyonight">
 </a>
