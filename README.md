@@ -21,9 +21,7 @@
 
 ### Languages & Tools 🕹
 
-![My Skills](https://raw.githubusercontent.com/theTapper/theTapper/main/README.assets/icons.svg)
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,git,linux,vscode,codepen,discord,twitter)]
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bash,git,linux,vscode,codepen,discord,twitter)]
 
 
 
