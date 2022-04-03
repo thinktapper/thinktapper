@@ -22,8 +22,6 @@
 
 <p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,git,bash,linux,vscode,codepen,discord,twitter"></p>
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,git,bash,linux,vscode,codepen,discord,twitter)
-
 
 
 ### Github Analytics 🔬
@@ -34,10 +32,6 @@
 <a href="https://github.com/theTapper">
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=theTapper&hide=stars,issues,contribs&count_private=true&show_icons=true&theme=tokyonight">
 </a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theTapper&layout=compact&theme=tokyonight)](https://github.com/theTapper)
-
-[![Tapper's GitHub stats](https://github-readme-stats.vercel.app/api?username=theTapper&hide=stars,issues,contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/theTapper)
 
 
 
