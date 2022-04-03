@@ -20,19 +20,19 @@
 
 ### Languages & Tools 🕹
 
-<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,git,bash,linux,vscode,codepen,discord,twitter"></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=html,css,js,git,bash,linux,vscode,codepen,discord,twitter"></p>
 
 
 
 ### Github Analytics 🔬
 <p align="left">
 <a href="https://github.com/theTapper">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theTapper&layout=compact&theme=tokyonight">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theTapper&langs_count=4&layout=compact&theme=tokyonight">
 </a>
 </p>
-<p align="right">
+<p align="left">
 <a href="https://github.com/theTapper">
-	<img src="https://github-readme-stats.vercel.app/api?username=theTapper&hide=stars,issues,contribs&count_private=true&show_icons=true&theme=tokyonight">
+	<img src="https://github-readme-stats.vercel.app/api?username=theTapper&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight">
 </a>
 </p>
 
