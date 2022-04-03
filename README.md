@@ -21,7 +21,7 @@
 
 ### Languages & Tools 🕹
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bash,git,linux,vscode,codepen,discord,twitter)]
+![My Skills](https://skillicons.dev/icons?i=html,css,js,bash,git,linux,vscode,codepen,discord,twitter)
 
 
 
