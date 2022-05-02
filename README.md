@@ -28,12 +28,12 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thinktapper&theme=tokyonight" alt="thinktapper" /></p>
 <p align="left">
 <a href="https://github.com/theTapper">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theTapper&langs_count=4&layout=compact&theme=tokyonight">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinktapper&langs_count=4&layout=compact&theme=tokyonight">
 </a>
 </p>
 <p align="left">
 <a href="https://github.com/theTapper">
-	<img src="https://github-readme-stats.vercel.app/api?username=theTapper&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight">
+	<img src="https://github-readme-stats.vercel.app/api?username=thinktapper&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight">
 </a>
 </p>
 
