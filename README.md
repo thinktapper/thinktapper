@@ -9,15 +9,13 @@
 🫶 Solving problems and providing elegant, innovative and accessible solutions is a passion of mine. I'm enthusiastic about learning new & exciting technologies, and am driven to find ways our tech can be 	improved.
 
 
-🔭 I’m currently working on **Client Projects**
-
-👨‍💻 My tech stack is **MERN**
+👨‍💻 I’m currently working on **Client Projects**
 
 🏋️‍♂️ Upskilling w/ **100Devs**
 
 👯‍♀️ I'm looking to collaborate on **interesting project ideas** & **volunteer opportunities**
 
-📄 Know about my experiences by [**viewing my resume**](https://tapper.codes/imgs/Andrew_Tapper-Software_Engineer-Resume.pdf)
+📜 Know about my experiences by [**viewing my resume**](https://tapper.codes/imgs/Andrew_Tapper-Software_Engineer-Resume.pdf)
 
 ⚡ Fun fact **I'm a comedy connoisseur**
 
