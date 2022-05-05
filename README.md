@@ -9,7 +9,7 @@
 🫶 Solving problems and providing elegant, innovative and accessible solutions is a passion of mine. I'm enthusiastic about learning new & exciting technologies, and am driven to find ways our tech can be 	improved.
 
 
-👨‍💻 I’m currently working on **Client Projects**
+👨‍💻 I’m currently working on **Sift Collective**
 
 🏋️‍♂️ Upskilling w/ **100Devs**
 
@@ -17,7 +17,7 @@
 
 📜 Know about my experiences by [**viewing my resume**](https://tapper.codes/imgs/Andrew_Tapper-Software_Engineer-Resume.pdf)
 
-⚡ Fun fact **I'm a comedy connoisseur**
+⚡ Fun fact I'm **somewhat of a comedy connoisseur**
 
 📫 Reach me at [**andrew@tapper.codes**](mailto:andrew@tapper.codes?subject=Hello%20from%20GitHub)
 
