@@ -187,11 +187,13 @@
 
 ---
 
-<div align="center">
 
+<div align="center">
 <h2>Connect with me</h2>
 <img src="images/handshake.gif" alt="handshake" width="30px" height="30px" style="margin: 5px auto;">
+</div>
 
+<div align="center">
 <a href="https://tapper.codes/" target="_blank">
 <img src="images/website2.svg" alt="Portfolio Site" width="auto" height="28px" style="margin-bottom: 5px;" />
 </a>
