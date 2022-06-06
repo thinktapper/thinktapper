@@ -189,7 +189,7 @@
 
 <div align="center">
 
-## Connect with me
+<h2>Connect with me</h2>
 <img src="images/handshake.gif" alt="handshake" width="30px" height="30px" style="margin: 5px auto;">
 
 <a href="https://tapper.codes/" target="_blank">
