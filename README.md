@@ -2,6 +2,8 @@
 <img src="images/name-logo_GHdark.png" align="center" style="width: 100%" />
 </div>
 
+<br>
+
 ### <div align="center">Hi there! <img src="images/wave.gif" width="30px" height="30px"> I'm Tapper, passionate full-stack developer</div>
 
 <br>
