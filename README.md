@@ -190,10 +190,8 @@
 ---
 
 
-<div align="center">
-<h2>Connect with me</h2>
-<img src="images/handshake.gif" alt="handshake" width="30px" height="30px" style="margin: 5px auto;">
-</div>
+<h2 align="center">Connect with me<br>
+<img src="images/handshake.gif" alt="handshake" width="50px" height="50px" style="margin: 5px auto;"></h2>
 
 <div align="center">
 <a href="https://tapper.codes/" target="_blank">
