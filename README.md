@@ -1,64 +1,191 @@
-# 					Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Tapper 👽
+<div align="center">
+<img src="images/name-logo.png" align="center" style="width: 100%" />
+</div>
 
+<br/>
 
-### About Me 🦭
+### <div align="center">Hi there! <img src="images/wave.gif" width="30px"> I'm Tapper, passionate full-stack developer</div>
 
+<br>
 
-📍 I'm a passionate full-stack developer based in Minneapolis. 
-
-🫶 Solving problems and providing elegant, innovative and accessible solutions is a passion of mine. I'm enthusiastic about learning new & exciting technologies, and am driven to find ways our tech can be 	improved.
-
-
-👨‍💻 I’m currently working on **Sift Collective**
-
-🏋️‍♂️ Upskilling w/ **100Devs**
-
-👯‍♀️ I'm looking to collaborate on **interesting project ideas** & **volunteer opportunities**
-
-📜 Know about my experiences by [**viewing my resume**](https://tapper.codes/imgs/Andrew_Tapper-Software_Engineer-Resume.pdf)
-
-⚡ Fun fact I'm **somewhat of a comedy connoisseur**
-
-📫 Reach me at [**andrew@tapper.codes**](mailto:andrew@tapper.codes?subject=Hello%20from%20GitHub)
-
-🤸 Let's go **git**
-
-### Languages & Tools 🕹
-
-<p align="left"><img src="https://skillicons.dev/icons?i=html,css,js,git,bash,linux,vscode,codepen,discord,twitter"></p>
-
-
-
-### Github Analytics 🔬
-<p align="left">
-<a href="https://github.com/theTapper">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinktapper&langs_count=4&layout=compact&theme=tokyonight">
+<div align="center">
+<a href="https://tapper.codes/" target="_blank">
+<img src="images/website2.svg" alt="Portfolio Site" width="auto" height="28px" style="margin-bottom: 5px;" />
 </a>
-</p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thinktapper&theme=tokyonight" alt="thinktapper" /></p>
-<!--<p align="left">
-<a href="https://github.com/theTapper">
-	<img src="https://github-readme-stats.vercel.app/api?username=thinktapper&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight">
+<a href="https://tapper.codes/linkedin" target="_blank">
+<img src="images/linkedin.svg" alt="linkedin" width="auto" height="28px" style="margin-bottom: 5px;" />
 </a>
-</p>-->
+<a href="https://tapper.codes/twitter" target="_blank">
+<img src="images/twitter.svg" alt="twitter" width="auto" height="28px" style="margin-bottom: 5px;" />
+</a>
+<a href="https://tapper.codes/angellist" target="_blank">
+<img src="images/angellist.svg" alt="Angel List" width="auto" height="28px" style="margin-bottom: 5px;" />
+</a>  
+</div>
+
+<br/>
+
+<p align="center">I'm a creative, detail-oriented software engineer based in Minneapolis. I am currently looking for full time work and open to collaborate on any interesting projects. </p>
+
+### <div align="center">See <a href="https://tapper.codes/" target="_blank">my website</a> for more information!</div>
 
 
+---
 
+<br>
 
+<!-- PROJECTS -->
 
-### Connect with me 🤝
+<h2 align="center" color="white">Projects</h2>
+<div align="center">
+	<table>
+		<tr>
+			<!--project 1 -->
+			<td width="50%">
+				<h3 align="center" color="white">Spaceballs Quotes</h2>
+				<div align="center" > 
+					<a href="#">
+						<img src="images/Funny-tapper_codes.jpeg" alt=""/>
+					</a>
+					<br>
+					<br>
+					<p>
+                        <!--repo --> 
+						<a href='#'>
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+                        <!--live site --> 
+						<a href="#">
+							<img src="images/liveSite.svg" width="auto" height="28px"/>
+						</a>	
+					</p>
+					<p><strong>Node, Express, MongoDB, EJS</strong> - </p>
+				</div>
+			</td>
+			<!--project 2 -->
+			<td width="50%">
+				<h3 align="center" color="white">Magnus Media</h2>
+				<div align="center" > 
+					<a href="https://magnus-media.netlify.app/" target="_blank">
+						<img src="images/magnus-HD_medium.gif" alt="Artist portfolio" height="200px" />
+					</a>
+					<br>
+					<br>
+					<p>
+                        <!--repo --> 
+						<a href="https://github.com/thinktapper/magnus-media" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+                        <!--live site --> 
+						<a href="https://magnus-media.netlify.app/" target="_blank">
+							<img src="images/liveSite.svg" width="auto" height="28px"/>
+						</a>	
+					</p>
+					<p><strong>JavaScript, Sass, CSS3, HTML5</strong> - A unique online showcase of a collection of photos by photographer Vincent Magnus.</p>
+				</div>
+			</td>
+		<tr>
+			<!--project 3 -->
+			<td width="50%">
+				<h3 align="center" color="white">Ayesha Salon</h2>
+				<div align="center" > 
+					<a href="https://ayesha-hair-salon.netlify.app/" target="_blank">
+						<img src="images/ayesha-HD_medium.gif" alt="Custom Salon Website" />
+					</a>
+					<br>
+					<br>
+					<p>
+                        <!--repo --> 
+						<a href="https://github.com/thinktapper/hair-salon" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+                        <!--live site --> 
+						<a href="https://ayesha-hair-salon.netlify.app/" target="_blank">
+							<img src="images/liveSite.svg" width="auto" height="28px"/>
+						</a>	
+					</p>
+					<p><strong>JavaScript, Sass, CSS3, HTML5</strong> - A fully responsive, beautiful, and modern website for a contemporary full-service salon.</p>
+				</div>
+			</td>
+			<!--project 4 -->
+			<td width="50%">
+				<h3 align="center" color="white">Cuisine Bistro</h2>
+				<div align="center" > 
+					<a href="https://cuisine-bistro.netlify.app/" target="_blank">
+						<img src="images/cuisine-HD_medium.gif" alt="Custom Restaurant Website" height="200px" />
+					</a>
+					<br>
+					<br>
+					<p>
+                        <!--repo --> 
+						<a href="https://github.com/thinktapper/cuisine-restaurant" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+                        <!--live site --> 
+						<a href="https://cuisine-bistro.netlify.app/" target="_blank">
+							<img src="images/liveSite.svg" width="auto" height="28px"/>
+						</a>	
+					</p>
+					<p><strong>JavaScript, Sass, CSS3, HTML5</strong> - Cuisine is a clean and professional, fully animated website for a local restaurant.</p>
+				</div>
+			</td>
+	</table>
+</div>
+<br />
 
-<p align="left">
-<a href="https://twitter.com/thinktapper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thinktapper" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/thinktapper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thinktapper" height="30" width="40" /></a>
-<a href="https://open.spotify.com/user/quantumqweef?si=92b083432c614c37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="spotify" height="30" width="40" /></a>
-<a href="https://tapper.codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/thinktapper/thinktapper/main/README.assets/angellist.svg" alt="tapper codes" height="30" width="40" /></a>
-</p>
+---
 
-------
+<br>
 
-### :zap: Recent Activity
+<h2 align="center">Technologies</h2>
 
-![GitHub last commit](https://img.shields.io/github/last-commit/QuantumQweef/CodeWars)
+<table><tr><td valign="top" width="50%">
 
-![Netlify](https://img.shields.io/netlify/3a2d5e65-167b-4b24-b09c-abbfc0e3de58)
+### Frontend
+
+<div align="center">  
+<img style="margin: 10px" src="images/react.svg" alt="React" height="75" />  
+<img style="margin: 10px" src="images/CSS3.svg" alt="CSS3" height="75" />  
+<img style="margin: 10px" src="images/HTML5.svg" alt="HTML5" height="75" />  
+<img style="margin: 10px" src="images/javascript.svg" alt="JavaScript" height="75" />  
+<img style="margin: 10px" src="images/sass.svg" alt="Sass" height="75" />
+<img style="margin: 10px" src="images/adobe.svg" alt="Adobe" height="75" />
+</div>
+
+</td><td valign="top" width="50%">
+
+### Backend
+
+<div align="center">  
+<img style="margin: 10px" src="images/mongodb.svg" alt="MongoDB" height="75" />  
+<img style="margin: 10px" src="images/nodedotjs.svg" alt="Node.js" height="75" />  
+<img style="margin: 10px" src="images/git.svg" alt="Git" height="75" />  
+<img style="margin: 10px" src="images/javascript.svg" alt="JavaScript" height="75" />  
+<img style="margin: 10px" src="images/express.svg" alt="Express.js" height="75" />
+<img style="margin: 10px" src="images/postgreSQL.svg" alt="PostgreSQL" height="75" />  
+</div>
+
+</td></tr></table>
+
+<br/>
+
+---
+
+<div align="center">
+
+## Connect with me
+<img src="images/handshake.gif" alt="handshake" width="50px" style="margin-bottom: 5px;">
+
+<a href="https://tapper.codes/" target="_blank">
+<img src="images/website2.svg" alt="Portfolio Site" width="auto" height="28px" style="margin-bottom: 5px;" />
+</a>
+<a href="https://tapper.codes/linkedin" target="_blank">
+<img src="images/linkedin.svg" alt="linkedin" width="auto" height="28px" style="margin-bottom: 5px;" />
+</a>
+<a href="https://tapper.codes/twitter" target="_blank">
+<img src="images/twitter.svg" alt="twitter" width="auto" height="28px" style="margin-bottom: 5px;" />
+</a>
+<a href="https://tapper.codes/angellist" target="_blank">
+<img src="images/angellist.svg" alt="Angel List" width="auto" height="28px" style="margin-bottom: 5px;" />
+</a>  
+</div>
