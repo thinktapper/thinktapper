@@ -139,7 +139,7 @@
 
 <h2 align="center">Technologies</h2>
 
-<table><tr><td valign="top" width="50%">
+<table width="100%"><tr><td valign="top" width="50%">
 
 <h3 align="center">Frontend 🦚</h3>
 
