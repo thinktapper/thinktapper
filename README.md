@@ -146,7 +146,8 @@
 <div align="center">  
 <img style="margin: 10px" src="images/react.svg" alt="React" height="75" />  
 <img style="margin: 10px" src="images/css3.svg" alt="CSS3" height="75" />  
-<img style="margin: 10px" src="images/html5.svg" alt="HTML5" height="75" /><br>
+<img style="margin: 10px" src="images/html5.svg" alt="HTML5" height="75" />
+
 <img style="margin: 10px" src="images/javascript.svg" alt="JavaScript" height="75" />  
 <img style="margin: 10px" src="images/sass.svg" alt="Sass" height="75" />
 <img style="margin: 10px" src="images/adobe.svg" alt="Adobe" height="75" />
@@ -159,7 +160,8 @@
 <div align="center">  
 <img style="margin: 10px" src="images/mongodb.svg" alt="MongoDB" height="75" />  
 <img style="margin: 10px" src="images/nodedotjs.svg" alt="Node.js" height="75" />  
-<img style="margin: 10px" src="images/git.svg" alt="Git" height="75" /><br>
+<img style="margin: 10px" src="images/git.svg" alt="Git" height="75" />
+
 <img style="margin: 10px" src="images/javascript.svg" alt="JavaScript" height="75" />  
 <img style="margin: 10px" src="images/express.svg" alt="Express.js" height="75" />
 <img style="margin: 10px" src="images/postgresql.svg" alt="PostgreSQL" height="75" />  
