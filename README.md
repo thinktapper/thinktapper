@@ -1,5 +1,5 @@
 <div align="center">
-<img src="images/name-logo.png" align="center" style="width: 100%" />
+<img src="images/name-logo_GHdark.png" align="center" style="width: 100%" />
 </div>
 
 <br/>
