@@ -132,6 +132,7 @@
 	</table>
 </div>
 <br />
+
 ---
 <br>
 
@@ -168,7 +169,9 @@
 </div>
 
 <br/>
+
 ---
+<br>
 
 <div align="center">
 <h2>Github Analytics</h2>
