@@ -27,7 +27,7 @@
 
 <p align="center">I'm a creative, detail-oriented software engineer based in Minneapolis. I am currently looking for full time work and open to collaborate on any interesting projects. </p>
 
-### <div align="center">See <a href="https://tapper.codes/" target="_blank">my website</a> for more information!</div>
+### <div align="center" style="margin-bottom: 10px;">See <a href="https://tapper.codes/" target="_blank">my website</a> for more information!</div>
 
 
 ---
@@ -36,7 +36,7 @@
 
 <!-- PROJECTS -->
 
-<h2 align="center" color="white">Projects</h2>
+<h2 align="center" color="white">Projects 🧑‍🔬</h2>
 <div align="center">
 	<table>
 		<tr>
@@ -141,7 +141,7 @@
 
 <table><tr><td valign="top" width="50%">
 
-### Frontend
+<h3 align="center">Frontend 🦚</h3>
 
 <div align="center">  
 <img style="margin: 10px" src="images/react.svg" alt="React" height="75" />  
@@ -154,7 +154,7 @@
 
 </td><td valign="top" width="50%">
 
-### Backend
+<h3 align="center">Backend 🏋️</h3>
 
 <div align="center">  
 <img style="margin: 10px" src="images/mongodb.svg" alt="MongoDB" height="75" />  
@@ -168,6 +168,22 @@
 </td></tr></table>
 
 <br/>
+
+<div align="center">
+<h2>Github Analytics</h2>
+<!-- <p align="left">
+<a href="https://github.com/thinktapper">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinktapper&langs_count=4&layout=compact&theme=tokyonight">
+</a>
+</p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thinktapper&theme=tokyonight" alt="thinktapper" /></p>
+<!--<p align="left">
+<a href="https://github.com/thinktapper">
+	<img src="https://github-readme-stats.vercel.app/api?username=thinktapper&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight">
+</a>
+</p>-->
+
+</div>
 
 ---
 
