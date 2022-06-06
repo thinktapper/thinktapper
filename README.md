@@ -162,7 +162,7 @@
 <img style="margin: 10px" src="images/git.svg" alt="Git" height="75" />  
 <img style="margin: 10px" src="images/javascript.svg" alt="JavaScript" height="75" />  
 <img style="margin: 10px" src="images/express.svg" alt="Express.js" height="75" />
-<img style="margin: 10px" src="images/postgreSQL.svg" alt="PostgreSQL" height="75" />  
+<img style="margin: 10px" src="images/postgresql.svg" alt="PostgreSQL" height="75" />  
 </div>
 
 </td></tr></table>
