@@ -190,7 +190,7 @@
 <div align="center">
 
 ## Connect with me
-<img src="images/handshake.gif" alt="handshake" style="width: 50px; margin-bottom: 5px;">
+<img src="images/handshake.gif" alt="handshake" style="width: 30px; margin-bottom: 5px;">
 
 <a href="https://tapper.codes/" target="_blank">
 <img src="images/website2.svg" alt="Portfolio Site" width="auto" height="28px" style="margin-bottom: 5px;" />
