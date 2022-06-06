@@ -4,7 +4,7 @@
 
 <br>
 
-### <div align="center">Hi there! <img src="images/wave.gif" width="30px" height="30px"> I'm Tapper, passionate full-stack developer</div>
+### <div align="center">Hi there! <img src="images/wave.gif" width="30px" height="30px"> I'm Tapper, a passionate full-stack developer</div>
 
 <br>
 
@@ -145,8 +145,8 @@
 
 <div align="center">  
 <img style="margin: 10px" src="images/react.svg" alt="React" height="75" />  
-<img style="margin: 10px" src="images/CSS3.svg" alt="CSS3" height="75" />  
-<img style="margin: 10px" src="images/HTML5.svg" alt="HTML5" height="75" />  
+<img style="margin: 10px" src="images/css3.svg" alt="CSS3" height="75" />  
+<img style="margin: 10px" src="images/html5.svg" alt="HTML5" height="75" />  
 <img style="margin: 10px" src="images/javascript.svg" alt="JavaScript" height="75" />  
 <img style="margin: 10px" src="images/sass.svg" alt="Sass" height="75" />
 <img style="margin: 10px" src="images/adobe.svg" alt="Adobe" height="75" />
@@ -190,7 +190,7 @@
 <div align="center">
 
 ## Connect with me
-<img src="images/handshake.gif" alt="handshake" width="50px" style="margin-bottom: 5px;">
+<img src="images/handshake.gif" alt="handshake" style="width: 50px; margin-bottom: 5px;">
 
 <a href="https://tapper.codes/" target="_blank">
 <img src="images/website2.svg" alt="Portfolio Site" width="auto" height="28px" style="margin-bottom: 5px;" />
