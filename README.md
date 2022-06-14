@@ -59,7 +59,7 @@
 							<img src="images/liveSite.svg" width="auto" height="28px"/>
 						</a>	
 					</p>
-					<p><strong>Node, Express, MongoDB, EJS</strong> - Use this web app to view NASA's new picture and explanation everyday, or traverse the archives by selecting a date.</p>
+					<p><strong>JavaScript, Sass, CSS3, HTML5</strong> - Use this web app to view NASA's new picture and explanation everyday, or traverse the archives by selecting a date.</p>
 				</div>
 			</td>
 			<!--project 2 -->
