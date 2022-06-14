@@ -42,24 +42,24 @@
 		<tr>
 			<!--project 1 -->
 			<td width="50%">
-				<h3 align="center" color="white">Spaceballs Quotes</h2>
+				<h3 align="center" color="white">NASA Dimension</h2>
 				<div align="center" > 
-					<a href="#">
-						<img src="images/Funny-tapper_codes.jpeg" alt=""/>
+					<a href="https://nasa-dimension.netlify.app/" target="_blank">
+						<img src="images/NASAdimension-demo.gif" alt="NASA APOD app">
 					</a>
 					<br>
 					<br>
 					<p>
                         <!--repo --> 
-						<a href='#'>
+						<a href='https://github.com/thinktapper/nasa-api-app' target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
                         <!--live site --> 
-						<a href="#">
+						<a href="https://nasa-dimension.netlify.app/" target="_blank">
 							<img src="images/liveSite.svg" width="auto" height="28px"/>
 						</a>	
 					</p>
-					<p><strong>Node, Express, MongoDB, EJS</strong> - </p>
+					<p><strong>Node, Express, MongoDB, EJS</strong> - Use this web app to view NASA's new picture and explanation everyday, or traverse the archives by selecting a date or clicking "Blast Off" to travel randomly.</p>
 				</div>
 			</td>
 			<!--project 2 -->

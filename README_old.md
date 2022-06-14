@@ -6,7 +6,7 @@
 
 📍 I'm a passionate full-stack developer based in Minneapolis. 
 
-🫶 Solving problems and providing elegant, innovative and accessible solutions is a passion of mine. I'm enthusiastic about learning new & exciting technologies, and am driven to find ways our tech can be 	improved.
+🫶 Solving problems and providing elegant, innovative and accessible solutions is a passion of mine. I'm enthusiastic about learning new & exciting technologies, and am driven to find ways our tech can be improved.
 
 
 👨‍💻 I’m currently working on **Sift Collective**
