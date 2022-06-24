@@ -4,7 +4,7 @@
 
 <br>
 
-### <div align="center">Hi there! <img src="images/wave.gif" width="30px" height="30px"> I'm Tapper, a passionate full-stack developer</div>
+### <div align="center">Hi there! <img src="images/wave.gif" width="30px" height="30px"> I'm Tapper, a passionate fullstack software engineer</div>
 
 <br>
 
@@ -178,6 +178,7 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinktapper&langs_count=4&layout=compact&theme=tokyonight">
 </a>
 </p> -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thinktapper&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="thinktapper" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thinktapper&theme=tokyonight" alt="thinktapper" /></p>
 <!--<p align="left">
 <a href="https://github.com/thinktapper">
