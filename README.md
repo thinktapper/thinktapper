@@ -114,10 +114,9 @@ Email me at <a href="mailto:andrew@tapper.codes" target="_blank">andrew@tapper.c
 </div>
 <br />
 
----
 <br>
 
-<h2 align="center">Technologies</h2>
+<h2 align="center">Languages & Tools</h2>
 
 <div align="center" width="100%"> 
 <table><tr><td valign="top" width="50%">
@@ -147,19 +146,11 @@ Email me at <a href="mailto:andrew@tapper.codes" target="_blank">andrew@tapper.c
 <!-- </div> -->
 
 </td></tr></table>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thinktapper&show_icons=true&theme=tokyonight&locale=en&layout=compact&lang_count=6" alt="thinktapper" /></p>
 </div>
 
 <br/>
 
-
-<div align="center">
-<h2>Github Analytics</h2>
-<!-- <p align="left">
-<a href="https://github.com/thinktapper">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinktapper&langs_count=4&layout=compact&theme=tokyonight">
-</a>
-</p> -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thinktapper&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="thinktapper" /></p>
 <!--<p align="left">
 <a href="https://github.com/thinktapper">
 	<img src="https://github-readme-stats.vercel.app/api?username=thinktapper&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight">
