@@ -8,7 +8,7 @@
 
 <br>
 <p align="center">
-👨‍💻 Accepting new <s>clients</s> collaborative opportunities 🏋️‍♂️
+👨‍💻 Accepting new <s>clients</s> collaborative full-time opportunities 🏋️‍♂️
 <br>
 🦚 Looking to bring my skills to a team building products used worldwide 🫶
 <br>
