@@ -15,7 +15,7 @@
 Email me at <a href="mailto:andrew@tapper.codes" target="_blank">andrew@tapper.codes</a> <strong>⅋</strong> Check out  <a href="https://tapper.codes/" target="_blank">my portfolio</a> for more information!</p>
 <br>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thinktapper&theme=tokyonight" alt="thinktapper" /></p>
-
+<br>
 <!-- PROJECTS -->
 <h2 align="center" color="white">🧑‍🔬Projects (more coming soon...)</h2>
 <div align="center">
