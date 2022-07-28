@@ -11,8 +11,9 @@
 👨‍💻 Accepting new <s>clients</s> collaborative opportunities 🏋️‍♂️
 <br>
 🦚 Looking to bring my skills to a team building products used worldwide 🫶
-<div align="center" style="margin-bottom: 10px;">Email me at <a href="mailto:andrew@tapper.codes" target="_blank">andrew@tapper.codes</a> <strong>⅋</strong> Check out  <a href="https://tapper.codes/" target="_blank">my portfolio</a> for more information!</div>
-
+<br>
+Email me at <a href="mailto:andrew@tapper.codes" target="_blank">andrew@tapper.codes</a> <strong>⅋</strong> Check out  <a href="https://tapper.codes/" target="_blank">my portfolio</a> for more information!</p>
+<br>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thinktapper&theme=tokyonight" alt="thinktapper" /></p>
 
 <!-- PROJECTS -->
