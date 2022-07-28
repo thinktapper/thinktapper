@@ -158,6 +158,7 @@ Email me at <a href="mailto:andrew@tapper.codes" target="_blank">andrew@tapper.c
 </p>-->
 
 </div>
+<br>
 ---
 <div align="center">
 <h2>Connect with me<br>
