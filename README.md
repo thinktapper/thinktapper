@@ -4,39 +4,19 @@
 
 <br>
 
-### <div align="center">Hi there! <img src="images/wave.gif" width="30px" height="30px"> I'm Tapper, a passionate fullstack software engineer</div>
+<div align="center">Hi there! <img src="images/wave.gif" width="30px" height="30px"> I'm Tapper, a passionate fullstack software engineer based in Minneapolis<br>Currently learning <strong>Next.JS</strong> & building <strong>MERN</strong> apps at 100Devs agency.</div>
 
 <br>
-
-<div align="center">
-<a href="https://tapper.codes/" target="_blank">
-<img src="images/website2.svg" alt="Portfolio Site" width="auto" height="28px" style="margin-bottom: 5px;" />
-</a>
-<a href="https://tapper.codes/linkedin" target="_blank">
-<img src="images/linkedin.svg" alt="linkedin" width="auto" height="28px" style="margin-bottom: 5px;" />
-</a>
-<a href="https://tapper.codes/twitter" target="_blank">
-<img src="images/twitter.svg" alt="twitter" width="auto" height="28px" style="margin-bottom: 5px;" />
-</a>
-<a href="https://tapper.codes/angellist" target="_blank">
-<img src="images/angellist.svg" alt="Angel List" width="auto" height="28px" style="margin-bottom: 5px;" />
-</a>  
-</div>
-
-<br/>
-
-<p align="center">I'm a creative, detail-oriented software engineer based in Minneapolis. I am currently looking for full time work and open to collaborate on any interesting projects. </p>
-
-### <div align="center" style="margin-bottom: 10px;">See <a href="https://tapper.codes/" target="_blank">my website</a> for more information!</div>
-
-
----
-
+<p align="center">
+👨‍💻 Accepting new <s>clients</s> collaborative opportunities 🏋️‍♂️
 <br>
+🦚 Looking to bring my skills to a team building products used worldwide 🫶
+<div align="center" style="margin-bottom: 10px;">Email me at <a href="mailto:andrew@tapper.codes" target="_blank">andrew@tapper.codes</a> <strong>⅋</strong> Check out  <a href="https://tapper.codes/" target="_blank">my portfolio</a> for more information!</div>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thinktapper&theme=tokyonight" alt="thinktapper" /></p>
 
 <!-- PROJECTS -->
-
-<h2 align="center" color="white">Projects 🧑‍🔬</h2>
+<h2 align="center" color="white">🧑‍🔬Projects (more coming soon...)</h2>
 <div align="center">
 	<table>
 		<tr>
@@ -179,7 +159,6 @@
 </a>
 </p> -->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thinktapper&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="thinktapper" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thinktapper&theme=tokyonight" alt="thinktapper" /></p>
 <!--<p align="left">
 <a href="https://github.com/thinktapper">
 	<img src="https://github-readme-stats.vercel.app/api?username=thinktapper&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight">
