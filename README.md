@@ -158,9 +158,13 @@ Email me at <a href="mailto:andrew@tapper.codes" target="_blank">andrew@tapper.c
 </p>-->
 
 </div>
-<br>
+
+<br/>
+
 ---
+
 <br>
+
 <div align="center">
 <h2>Connect with me<br>
 <img src="images/handshake.gif" alt="handshake" width="50px" height="50px" style="margin: 5px auto;"></h2>
