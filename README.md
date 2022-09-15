@@ -21,7 +21,29 @@ Email me at <a href="mailto:andrew@tapper.codes" target="_blank">andrew@tapper.c
 <div align="center">
 	<table>
 		<tr>
-			<!--project 1 -->
+            <!--project 1 -->
+			<td width="50%">
+				<h3 align="center" color="white">Ticket Mgmt</h2>
+				<div align="center" > 
+					<a href="https://ticket-mgmt.up.railway.app/" target="_blank">
+						<img src="images/ticket-mgmt.gif" alt="Ticket Management app" />
+					</a>
+					<br>
+					<br>
+					<p>
+                        <!--repo --> 
+						<a href="https://github.com/thinktapper/ticket-mgmt" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+                        <!--live site --> 
+						<a href="https://ticket-mgmt.up.railway.app/" target="_blank">
+							<img src="images/liveSite.svg" width="auto" height="28px"/>
+						</a>	
+					</p>
+					<p><strong>React, GraphQL, MongoDB, Bootstrap</strong> - A full stack ticket management system that allows users to keep track of clients and manage tickets for a variety of projects.</p>
+				</div>
+			</td>
+			<!--project 2 -->
 			<td width="50%">
 				<h3 align="center" color="white">NASA Dimension</h2>
 				<div align="center" > 
@@ -43,7 +65,8 @@ Email me at <a href="mailto:andrew@tapper.codes" target="_blank">andrew@tapper.c
 					<p><strong>JavaScript, Sass, CSS3, HTML5</strong> - Use this web app to view NASA's new picture and explanation everyday, or traverse the archives by selecting a date.</p>
 				</div>
 			</td>
-			<!--project 2 -->
+		<tr>
+			<!--project 3 -->
 			<td width="50%">
 				<h3 align="center" color="white">Magnus Media</h2>
 				<div align="center" > 
@@ -63,29 +86,6 @@ Email me at <a href="mailto:andrew@tapper.codes" target="_blank">andrew@tapper.c
 						</a>	
 					</p>
 					<p><strong>JavaScript, Sass, CSS3, HTML5</strong> - A unique online showcase of a collection of photos by photographer Vincent Magnus.</p>
-				</div>
-			</td>
-		<tr>
-			<!--project 3 -->
-			<td width="50%">
-				<h3 align="center" color="white">Ayesha Salon</h2>
-				<div align="center" > 
-					<a href="https://ayesha-hair-salon.netlify.app/" target="_blank">
-						<img src="images/ayesha-HD_medium.gif" alt="Custom Salon Website" />
-					</a>
-					<br>
-					<br>
-					<p>
-                        <!--repo --> 
-						<a href="https://github.com/thinktapper/hair-salon" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
-                        <!--live site --> 
-						<a href="https://ayesha-hair-salon.netlify.app/" target="_blank">
-							<img src="images/liveSite.svg" width="auto" height="28px"/>
-						</a>	
-					</p>
-					<p><strong>JavaScript, Sass, CSS3, HTML5</strong> - A fully responsive, beautiful, and modern website for a contemporary full-service salon.</p>
 				</div>
 			</td>
 			<!--project 4 -->
