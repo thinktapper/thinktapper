@@ -23,50 +23,27 @@ Email me at <a href="mailto:andrew@tapper.codes" target="_blank">andrew@tapper.c
 		<tr>
             <!--project 1 -->
 			<td width="50%">
-				<h3 align="center" color="white">Ticket Mgmt</h2>
+				<h3 align="center" color="white">Projx</h2>
 				<div align="center" > 
-					<a href="https://ticket-mgmt.up.railway.app/" target="_blank">
-						<img src="images/ticket-mgmt.gif" alt="Ticket Management app" />
+					<a href="https://projx.vercel.app/" target="_blank">
+						<img src="images/Projx-HD.gif" alt="Projx - The missing piece in your project puzzle" height="200px" />
 					</a>
 					<br>
 					<br>
 					<p>
                         <!--repo --> 
-						<a href="https://github.com/thinktapper/ticket-mgmt" target="_blank">
+						<a href="https://github.com/thinktapper/projx" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
                         <!--live site --> 
-						<a href="https://ticket-mgmt.up.railway.app/" target="_blank">
+						<a href="https://projx.vercel.app/" target="_blank">
 							<img src="images/liveSite.svg" width="auto" height="28px"/>
 						</a>	
 					</p>
-					<p><strong>React, GraphQL, MongoDB, Bootstrap</strong> - A full stack ticket management system that allows users to keep track of clients and manage tickets for a variety of projects.</p>
+					<p><strong>TypeScript, React, NextJS, TailwindCSS</strong> - Projx is a modern full-stack project management web app.</p>
 				</div>
 			</td>
 			<!--project 2 -->
-			<td width="50%">
-				<h3 align="center" color="white">NASA Dimension</h2>
-				<div align="center" > 
-					<a href="https://nasa-dimension.netlify.app/" target="_blank">
-						<img src="images/NASAdimension-demo.gif" alt="NASA APOD app">
-					</a>
-					<br>
-					<br>
-					<p>
-                        <!--repo --> 
-						<a href='https://github.com/thinktapper/nasa-api-app' target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
-                        <!--live site --> 
-						<a href="https://nasa-dimension.netlify.app/" target="_blank">
-							<img src="images/liveSite.svg" width="auto" height="28px"/>
-						</a>	
-					</p>
-					<p><strong>JavaScript, Sass, CSS3, HTML5</strong> - Use this web app to view NASA's new picture and explanation everyday, or traverse the archives by selecting a date.</p>
-				</div>
-			</td>
-		<tr>
-			<!--project 3 -->
 			<td width="50%">
 				<h3 align="center" color="white">Magnus Media</h2>
 				<div align="center" > 
@@ -88,26 +65,49 @@ Email me at <a href="mailto:andrew@tapper.codes" target="_blank">andrew@tapper.c
 					<p><strong>JavaScript, Sass, CSS3, HTML5</strong> - A unique online showcase of a collection of photos by photographer Vincent Magnus.</p>
 				</div>
 			</td>
-			<!--project 4 -->
+		<tr>
+			<!--project 3 -->
 			<td width="50%">
-				<h3 align="center" color="white">Cuisine Bistro</h2>
+				<h3 align="center" color="white">NASA Dimension</h2>
 				<div align="center" > 
-					<a href="https://cuisine-bistro.netlify.app/" target="_blank">
-						<img src="images/cuisine-HD_medium.gif" alt="Custom Restaurant Website" height="200px" />
+					<a href="https://nasa-dimension.netlify.app/" target="_blank">
+						<img src="images/NASAdimension-demo.gif" alt="NASA APOD app">
 					</a>
 					<br>
 					<br>
 					<p>
                         <!--repo --> 
-						<a href="https://github.com/thinktapper/cuisine-restaurant" target="_blank">
+						<a href='https://github.com/thinktapper/nasa-api-app' target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
                         <!--live site --> 
-						<a href="https://cuisine-bistro.netlify.app/" target="_blank">
+						<a href="https://nasa-dimension.netlify.app/" target="_blank">
 							<img src="images/liveSite.svg" width="auto" height="28px"/>
 						</a>	
 					</p>
-					<p><strong>JavaScript, Sass, CSS3, HTML5</strong> - Cuisine is a clean and professional, fully animated website for a local restaurant.</p>
+					<p><strong>JavaScript, Sass, CSS3, HTML5</strong> - Use this web app to view NASA's new picture and explanation everyday, or traverse the archives by selecting a date.</p>
+				</div>
+			</td>
+			<!--project 4 -->
+			<td width="50%">
+				<h3 align="center" color="white">Ticket Mgmt</h2>
+				<div align="center" > 
+					<a href="https://ticket-mgmt.up.railway.app/" target="_blank">
+						<img src="images/ticket-mgmt.gif" alt="Ticket Management app" />
+					</a>
+					<br>
+					<br>
+					<p>
+                        <!--repo --> 
+						<a href="https://github.com/thinktapper/ticket-mgmt" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+                        <!--live site --> 
+						<a href="https://ticket-mgmt.up.railway.app/" target="_blank">
+							<img src="images/liveSite.svg" width="auto" height="28px"/>
+						</a>	
+					</p>
+					<p><strong>React, GraphQL, MongoDB, Bootstrap</strong> - A full stack ticket management system that allows users to keep track of clients and manage tickets for a variety of projects.</p>
 				</div>
 			</td>
 	</table>
