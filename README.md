@@ -40,7 +40,7 @@ Email me at <a href="mailto:andrew@tapper.codes" target="_blank">andrew@tapper.c
 							<img src="images/liveSite.svg" width="auto" height="28px"/>
 						</a>	
 					</p>
-					<p><strong>React Native, React Query, TailwindCSS</strong> - Like Tinder for food, Dinder uses swipe matching to help users decide on the perfect place for their next meal.</p>
+					<p><strong>Expo, React Native, React Query, TailwindCSS</strong> - Like Tinder for food, Dinder uses swipe matching to help users decide on the perfect place for their next meal.</p>
 				</div>
 			</td>
 			<!--project 2 -->
@@ -62,7 +62,7 @@ Email me at <a href="mailto:andrew@tapper.codes" target="_blank">andrew@tapper.c
 							<img src="images/liveSite.svg" width="auto" height="28px"/>
 						</a>
 					</p>
-					<p><strong>TypeScript, Node, Express, PostgreSQL</strong> - A RESTful API that serves as the backend for Dinder.</p>
+					<p><strong>TypeScript, Node, Express, Prisma, PostgreSQL</strong> - A RESTful API that serves as the backend for Dinder.</p>
 				</div>
 			</td>
         </tr>
