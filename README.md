@@ -23,7 +23,53 @@ Email me at <a href="mailto:andrew@tapper.codes" target="_blank">andrew@tapper.c
 		<tr>
             <!--project 1 -->
 			<td width="50%">
-				<h3 align="center" color="white">Projx</h2>
+				<h3 align="center" color="white">Dinder</h3>
+				<div align="center" > 
+					<a href="https://expo.dev/@tapper/dinder/" target="_blank">
+						<img src="images/dinderRN-md.gif" alt="Dinder mobile app" height="200px" />
+					</a>
+					<br>
+					<br>
+					<p>
+                        <!--repo --> 
+						<a href="https://github.com/thinktapper/DinderRN" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+                        <!--live site --> 
+						<a href="https://expo.dev/@tapper/dinder/" target="_blank">
+							<img src="images/liveSite.svg" width="auto" height="28px"/>
+						</a>	
+					</p>
+					<p><strong>React Native, React Query, TailwindCSS</strong> - Like Tinder for food, Dinder uses swipe matching to help users decide on the perfect place for their next meal.</p>
+				</div>
+			</td>
+			<!--project 2 -->
+			<td width="50%">
+				<h3 align="center" color="white">Dinder Is Served</h3>
+				<div align="center" > 
+					<a href="https://dinder-is-served-init.onrender.com/health/" target="_blank">
+						<img src="images/DinderIsServed2.svg" alt="Dinder, it's what's for dinner" height="200px" />
+					</a>
+					<br>
+					<br>
+					<p>
+                        <!--repo --> 
+						<a href="https://github.com/thinktapper/DinderIsServed/" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+                        <!--live site --> 
+						<a href="https://dinder-is-served-init.onrender.com/health/" target="_blank">
+							<img src="images/liveSite.svg" width="auto" height="28px"/>
+						</a>
+					</p>
+					<p><strong>TypeScript, Node, Express, PostgreSQL</strong> - A RESTful API that serves as the backend for Dinder.</p>
+				</div>
+			</td>
+        </tr>
+<tr>
+            <!--project 1 -->
+			<td width="50%">
+				<h3 align="center" color="white">Projx</h3>
 				<div align="center" > 
 					<a href="https://projx.vercel.app/" target="_blank">
 						<img src="images/Projx-HD.gif" alt="Projx - The missing piece in your project puzzle" height="200px" />
@@ -45,7 +91,7 @@ Email me at <a href="mailto:andrew@tapper.codes" target="_blank">andrew@tapper.c
 			</td>
 			<!--project 2 -->
 			<td width="50%">
-				<h3 align="center" color="white">Magnus Media</h2>
+				<h3 align="center" color="white">Magnus Media</h3>
 				<div align="center" > 
 					<a href="https://magnus-media.netlify.app/" target="_blank">
 						<img src="images/magnus-HD_medium.gif" alt="Artist portfolio" height="200px" />
@@ -65,10 +111,11 @@ Email me at <a href="mailto:andrew@tapper.codes" target="_blank">andrew@tapper.c
 					<p><strong>JavaScript, Sass, CSS3, HTML5</strong> - A unique online showcase of a collection of photos by photographer Vincent Magnus.</p>
 				</div>
 			</td>
+        </tr>
 		<tr>
 			<!--project 3 -->
 			<td width="50%">
-				<h3 align="center" color="white">NASA Dimension</h2>
+				<h3 align="center" color="white">NASA Dimension</h3>
 				<div align="center" > 
 					<a href="https://nasa-dimension.netlify.app/" target="_blank">
 						<img src="images/NASAdimension-demo.gif" alt="NASA APOD app">
@@ -90,7 +137,7 @@ Email me at <a href="mailto:andrew@tapper.codes" target="_blank">andrew@tapper.c
 			</td>
 			<!--project 4 -->
 			<td width="50%">
-				<h3 align="center" color="white">Ticket Mgmt</h2>
+				<h3 align="center" color="white">Ticket Mgmt</h3>
 				<div align="center" > 
 					<a href="https://ticket-mgmt.up.railway.app/" target="_blank">
 						<img src="images/ticket-mgmt.gif" alt="Ticket Management app" />
@@ -110,6 +157,7 @@ Email me at <a href="mailto:andrew@tapper.codes" target="_blank">andrew@tapper.c
 					<p><strong>React, GraphQL, MongoDB, Bootstrap</strong> - A full stack ticket management system that allows users to keep track of clients and manage tickets for a variety of projects.</p>
 				</div>
 			</td>
+        </tr>
 	</table>
 </div>
 <br />
@@ -156,8 +204,6 @@ Email me at <a href="mailto:andrew@tapper.codes" target="_blank">andrew@tapper.c
 	<img src="https://github-readme-stats.vercel.app/api?username=thinktapper&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight">
 </a>
 </p>-->
-
-</div>
 
 <br/>
 
