@@ -4,7 +4,7 @@
 
 <br>
 
-<div align="center">Hi there! <img src="images/wave.gif" width="30px" height="30px"> I'm Tapper, a passionate fullstack software engineer based in Minneapolis<br>Currently learning <strong>Next.JS</strong> & building <strong>MERN</strong> apps at 100Devs agency.</div>
+<div align="center">Hi there! <img src="images/wave.gif" width="30px" height="30px"> I'm Tapper, a passionate frontend-focused software engineer based in Minneapolis<br>Currently sharpening my <strong>Node.js</strong> & <strong>TailwindCSS</strong> skills while building apps for my freelance clients.</div>
 
 <br>
 <p align="center">
@@ -12,7 +12,7 @@
 <br>
 🦚 Looking to bring my skills to a team building products used worldwide 🫶
 <br>
-Email me at <a href="mailto:andrew@tapper.codes" target="_blank">andrew@tapper.codes</a> <strong>⅋</strong> Check out  <a href="https://tapper.codes/" target="_blank">my portfolio</a> for more information!</p>
+Email me at <a href="mailto:andrew@tapper.codes" target="_blank">andrew@tapper.codes</a> <strong>&</strong> Check out  <a href="https://tapper.codes/" target="_blank">my portfolio</a> for more information!</p>
 <br>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thinktapper&theme=tokyonight" alt="thinktapper" /></p>
 <br>
