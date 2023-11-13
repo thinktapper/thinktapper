@@ -4,7 +4,7 @@
 
 <br>
 
-<div align="center">Hi there! <img src="images/wave.gif" width="30px" height="30px"> I'm Tapper, a passionate frontend-focused software engineer based in Minneapolis<br>Currently sharpening my <strong>Node.js</strong> & <strong>CSS Animation</strong> skills.</div>
+<div align="center">Hi there! <img src="images/wave.gif" width="30px" height="30px"> I'm Tapper, a passionate frontend-focused software engineer based in Minneapolis<br>Currently sharpening my <strong>JavaScript Performance</strong> & <strong>Advanced CSS Animation</strong> skills.</div>
 
 <br>
 <p align="center">
