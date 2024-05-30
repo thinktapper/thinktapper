@@ -67,52 +67,6 @@ Email me at <a href="mailto:andrew@tapper.codes" target="_blank">andrew@tapper.c
 			</td>
         </tr>
 <tr>
-            <!--project 1 -->
-			<td width="50%">
-				<h3 align="center" color="white">Projx</h3>
-				<div align="center" > 
-					<a href="https://projx.vercel.app/" target="_blank">
-						<img src="images/Projx-HD.gif" alt="Projx - The missing piece in your project puzzle" height="200px" />
-					</a>
-					<br>
-					<br>
-					<p>
-                        <!--repo --> 
-						<a href="https://github.com/thinktapper/projx" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
-                        <!--live site --> 
-						<a href="https://projx.vercel.app/" target="_blank">
-							<img src="images/liveSite.svg" width="auto" height="28px"/>
-						</a>	
-					</p>
-					<p><strong>TypeScript, React, NextJS, TailwindCSS</strong> - Projx is a modern full-stack project management web app.</p>
-				</div>
-			</td>
-			<!--project 2 -->
-			<td width="50%">
-				<h3 align="center" color="white">Magnus Media</h3>
-				<div align="center" > 
-					<a href="https://magnus-media.netlify.app/" target="_blank">
-						<img src="images/magnus-HD_medium.gif" alt="Artist portfolio" height="200px" />
-					</a>
-					<br>
-					<br>
-					<p>
-                        <!--repo --> 
-						<a href="https://github.com/thinktapper/magnus-media" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
-                        <!--live site --> 
-						<a href="https://magnus-media.netlify.app/" target="_blank">
-							<img src="images/liveSite.svg" width="auto" height="28px"/>
-						</a>	
-					</p>
-					<p><strong>JavaScript, Sass, CSS3, HTML5</strong> - A unique online showcase of a collection of photos by photographer Vincent Magnus.</p>
-				</div>
-			</td>
-        </tr>
-		<tr>
 			<!--project 3 -->
 			<td width="50%">
 				<h3 align="center" color="white">NASA Dimension</h3>
@@ -137,24 +91,24 @@ Email me at <a href="mailto:andrew@tapper.codes" target="_blank">andrew@tapper.c
 			</td>
 			<!--project 4 -->
 			<td width="50%">
-				<h3 align="center" color="white">Ticket Mgmt</h3>
+				<h3 align="center" color="white">Magnus Media</h3>
 				<div align="center" > 
-					<a href="https://ticket-mgmt.up.railway.app/" target="_blank">
-						<img src="images/ticket-mgmt.gif" alt="Ticket Management app" />
+					<a href="https://magnus-media.netlify.app/" target="_blank">
+						<img src="images/magnus-HD_medium.gif" alt="Artist portfolio" height="200px" />
 					</a>
 					<br>
 					<br>
 					<p>
                         <!--repo --> 
-						<a href="https://github.com/thinktapper/ticket-mgmt" target="_blank">
+						<a href="https://github.com/thinktapper/magnus-media" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
                         <!--live site --> 
-						<a href="https://ticket-mgmt.up.railway.app/" target="_blank">
+						<a href="https://magnus-media.netlify.app/" target="_blank">
 							<img src="images/liveSite.svg" width="auto" height="28px"/>
 						</a>	
 					</p>
-					<p><strong>React, GraphQL, MongoDB, Bootstrap</strong> - A full stack ticket management system that allows users to keep track of clients and manage tickets for a variety of projects.</p>
+					<p><strong>JavaScript, Sass, CSS3, HTML5</strong> - A unique online showcase of a collection of photos by photographer Vincent Magnus.</p>
 				</div>
 			</td>
         </tr>
@@ -194,17 +148,9 @@ Email me at <a href="mailto:andrew@tapper.codes" target="_blank">andrew@tapper.c
 <!-- </div> -->
 
 </td></tr></table>
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thinktapper&show_icons=true&theme=tokyonight&locale=en&layout=compact&lang_count=6" alt="thinktapper" /></p>--> 
 </div>
 
 <br/>
-
-<!--<p align="left">
-<a href="https://github.com/thinktapper">
-	<img src="https://github-readme-stats.vercel.app/api?username=thinktapper&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight">
-</a>
-</p>-->
-
 <br/>
 
 ---
@@ -213,7 +159,7 @@ Email me at <a href="mailto:andrew@tapper.codes" target="_blank">andrew@tapper.c
 
 <div align="center">
 <h2>Connect with me<br>
-<img src="images/handshake.gif" alt="handshake" width="50px" height="50px" style="margin: 5px auto;"></h2>
+<img src="images/handshake.gif" alt="handshake" width="auto" height="50px" style="margin: 5px auto;"></h2>
 <a href="https://tapper.codes/" target="_blank">
 <img src="images/website2.svg" alt="Portfolio Site" width="auto" height="28px" style="margin-bottom: 5px;" />
 </a>
