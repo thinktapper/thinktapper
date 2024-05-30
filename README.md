@@ -114,7 +114,6 @@ Email me at <a href="mailto:andrew@tapper.codes" target="_blank">andrew@tapper.c
         </tr>
 	</table>
 </div>
-<br />
 
 <br>
 
@@ -150,12 +149,9 @@ Email me at <a href="mailto:andrew@tapper.codes" target="_blank">andrew@tapper.c
 </td></tr></table>
 </div>
 
-<br/>
-<br/>
+<br>
 
 ---
-
-<br>
 
 <div align="center">
 <h2>Connect with me<br>
