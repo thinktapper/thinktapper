@@ -14,7 +14,7 @@
 <br>
 Email me at <a href="mailto:andrew@tapper.codes" target="_blank">andrew@tapper.codes</a> <strong>&</strong> Check out  <a href="https://tapper.codes/" target="_blank">my portfolio</a> for more information!</p>
 <br>
-<p align="center"><img src="https://streak-stats.demolab.com?user=thinktapper&theme=tokyonight-duo" alt="Tapper's GitHub Streak" /></p>
+<p align="center"><img src="https://github-readme-streak-stats-eight.vercel.app?user=thinktapper&theme=tokyonight-duo" alt="Tapper's GitHub Streak" /></p>
 <br>
 <!-- PROJECTS -->
 <h2 align="center" color="white">🧑‍🔬Projects (more coming soon...)</h2>
